@@ -1,0 +1,10 @@
+file,what it is
+data/complaints.txt,"Six pilot-group complaints, C1 to C6"
+data/observed_behaviours.txt,"The eight observed behaviours, B1 to B8"
+data/requirements.md,The one-page requirements note: the only agreed specification
+evidence-log.csv,Claims and the evidence behind them
+local_mock.py,Local mock of SlotSwap build 0.4 (python local_mock.py)
+templates/defect-register.csv,Defects with severity and priority rated separately
+templates/execution-log.csv,"Pass / fail / blocked / not run, with evidence"
+templates/test-cases.csv,Test cases derived from the four rules
+templates/test-plan.csv,"Test plan: scope, out of scope, environment, exit criteria"
